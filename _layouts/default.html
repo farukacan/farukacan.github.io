@@ -23,10 +23,13 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 		
 		<p>{{ site.education }}</p>
+		<p>{{ site.occupation }}</p>
+		
 		
 		<hr>
 		
-		<p>{{ site.email }}</p>
+		<i class="fa fa-envelope"></>
+		<a href="mailto: farukacan@gmail.com">{{ site.email }}</a>
 
 <!--         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
