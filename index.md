@@ -15,6 +15,8 @@ Currently, I am pursuing my Ph.D. Degree in [Dept. of Computer Engineering](http
 > Boğaziçi University  
 > 2009 - 2014
 
+## ![](/assets/icons/research.png) ACADEMIC EXPERIENCE
+
 ## ![](/assets/icons/work.png) WORK EXPERIENCE
 
 ## ![](/assets/icons/article.png) PUBLICATIONS
