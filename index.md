@@ -8,3 +8,5 @@ Currently, I am pursuing my Ph.D. Degree in [Dept. of Computer Engineering](http
 
 ## ![](/assets/icons/article.png) PUBLICATIONS
 
+1. Faruk Açan, Gürkan Gür, Fatih Alagöz, "Reactive Controller Assignment for Failure Resilience in Software Defined Networks", 20th ASIA-PACIFIC NETWORK OPERATIONS AND MANAGEMENT SYMPOSIUM (APNOMS), Matsue, JAPAN, Sep 2019
+DOI:[10.23919/APNOMS.2019.8892940](https://ieeexplore.ieee.org/document/8892940/)
