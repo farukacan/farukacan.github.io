@@ -1,6 +1,9 @@
 ## ![](/assets/icons/aboutme.png) ABOUT ME
 
-Currently, I am pursuing my Ph.D. Degree in [Dept. of Computer Engineering](https://www.cmpe.boun.edu.tr/), [Bogazici University](http://boun.edu.tr/), Turkey. I am working under the supervision of [Professor Fatih Alagöz](https://www.cmpe.boun.edu.tr/~alagoz/). I am interested in Computer Networks, in particular Software Defined Networks and Network Security.
+Currently, I am pursuing my Ph.D. Degree in [Dept. of Computer Engineering](https://www.cmpe.boun.edu.tr/), [Bogazici University](http://boun.edu.tr/), Turkey. 
+I am working under the supervision of [Professor Fatih Alagöz](https://www.cmpe.boun.edu.tr/~alagoz/). 
+I am interested in Computer Networks, in particular Software Defined Networks and Network Security. 
+I am also working in [Boğaziçi University Computer Center](https://cc.boun.edu.tr/) as a Software Developer.
 
 ## ![](/assets/icons/education.png) EDUCATION
 > #### PhD in Computer Engineering
